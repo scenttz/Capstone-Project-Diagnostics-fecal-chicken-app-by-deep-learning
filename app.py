@@ -33,7 +33,7 @@ def upload_predict(upload_image, model):
         pred_class=[j for j in classes if classes[j] == np.argmax(score)][0]
         return pred_class, round(100 * np.max(score),2)
 if file is None:
-    st.text("Please upload an your fecal chicken image file")
+    st.text("Please upload your fecal chicken image file")
 else:
     image = Image.open(file)
     st.image(image, use_column_width=True)
