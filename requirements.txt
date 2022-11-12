@@ -1,0 +1,5 @@
+opencv-contrib-python-headless
+numpy==1.20.1
+streamlit==0.87.0
+joblib==0.16.0
+tensorflow==2.10.0
