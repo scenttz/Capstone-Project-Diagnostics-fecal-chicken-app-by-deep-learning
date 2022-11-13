@@ -17,7 +17,7 @@ st.markdown("<h1 style='text-align: center; color: white;'>Fecal Chicken Disease
 
 st.title('')
  
-file = st.file_uploader("You can check your chicken by fecals's. To detect Unhealthy diseases may be Coccidiosis, Salmonella, Newcastle diseases or Healthy.", type=["jpg", "png", "jpeg"])
+file = st.file_uploader("You can check your chicken's health via fecal matter. This app helps to detect unhealthy diseases such as Coccidiosis, Salmonella, and Newcastle from image files of chicken feces.", type=["jpg", "png", "jpeg"])
 st.set_option('deprecation.showfileUploaderEncoding', False)
  
 def upload_predict(upload_image, model):
