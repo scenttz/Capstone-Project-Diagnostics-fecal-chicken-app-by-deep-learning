@@ -11,3 +11,4 @@
 https://www.mdpi.com/2078-2489/11/2/125)
  - [TensorFlow API](https://lengyi.medium.com/tensorflow-api-custom-object-detection-2-5cdabf8f5e35)
  - [Transfer Learning Image Classification](https://theaisummer.com/cnn-architectures/)
+ - [Deploy your deep learning-based image classification model with Streamlit](https://analyticsindiamag.com/deploy-your-deep-learning-based-image-classification-model-with-streamlit/)
