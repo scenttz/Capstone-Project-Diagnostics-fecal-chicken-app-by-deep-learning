@@ -1,4 +1,4 @@
-# Capstone Project Diagnostics Fecal Chicken App By Deep Learning
+# Diagnostics Fecal Chicken App By Deep Learning
 
 
 
