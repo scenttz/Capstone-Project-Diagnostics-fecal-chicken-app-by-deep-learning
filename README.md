@@ -1,6 +1,8 @@
 # Diagnostics Fecal Chicken App By Deep Learning
 
-
+## Problem Statement
+“Prevention Is Better Than Cure” 
+– The Dutch philosopher Desiderius Erasmus. In this project, we aim to develop an application that can help to detect the disease of chickens via chicken fecal by deep learning neural network.
 
 
 ## Acknowledgements
