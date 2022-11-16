@@ -1,12 +1,25 @@
 # Diagnostics Fecal Chicken App By Deep Learning
-
-## Problem Statement
 “Prevention Is Better Than Cure” 
 – The Dutch philosopher Desiderius Erasmus. In this project, we aim to develop an application that can help to detect the disease of chickens via chicken fecal by deep learning neural network.
 
+## Contents:
+- [Problem Statement](#Problem-Statement)
+- [Executive Summary](#Executive-Summary)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- [Further Improvements](#Further-Improvements) 
+- [Acknowledgements](#Acknowledgements) 
+
+## Problem Statement 
+Lately, one of the major transitions in Thailand is related to the agricultural industry which is due to the higher competition in terms of quality and yield. Therefore, smart farming can be used as an opportunity to improve our farm's quality. The use of technology can help to improve farm productivity and increase efficiency through agricultural research and by adopting advanced technologies, including biotechnology, drones, big data, artificial intelligence, and robotics. With the help of these disruptive technologies, new businesses and business models have emerged to help smallholders, who are the majority of Thai farmers, to reduce costs and produce more crops, benefiting the whole economy.[Source](https://www.boi.go.th/upload/content/TIR7_Aw_Smart%20farming_5e5dc88fa8284.pdf)
+
+## Executive Summary
+## Conclusions and Recommendations
+
+
+
+## Further Improvements
 
 ## Acknowledgements
-
  - [Machine Learning Dataset for Poultry Diseases Diagnostics - PCR annotated](https://doi.org/10.5281/zenodo.5801834)
  - [Machine Learning Dataset for Poultry Diseases Diagnostics](https://doi.org/10.5281/zenodo.4628934)
  - [Fast and Flexible Image Augmentations](
