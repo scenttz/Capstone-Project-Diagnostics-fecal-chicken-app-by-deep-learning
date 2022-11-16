@@ -27,7 +27,7 @@ It is necessary to divide the data into the respective directories in order to s
 
 
 ## Conclusions and Recommendations
-Pamameters | CNN_Baseline  | VGG16_Transfer_Learning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Learning | MobileNetV2_Fine_Tuning 
+Parameters | CNN_Baseline  | VGG16_Transfer_Learning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Learning | MobileNetV2_Fine_Tuning 
 ----- | ----- | ----- | ----- | ----- | ----- |
 Loss function training | 0.14 | 0.50 | 0.07 | 0.06 | 0.04 |
 Loss function validation | 0.45 | 0.54 | 0.29 | 0.32 | 1.43 |
