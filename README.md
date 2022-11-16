@@ -19,7 +19,7 @@ Pullorum, Newcastle, and Coccidiosis. These challenges are usually found in smal
 
 
 
-This project focused on **developing the streamlit application which helps to classify the disease of a chicken via an image of a chicken's fecal using a feature called image classification through the deep learning neural network.**
+This project focused on **developing the streamlit application which helps to classify the disease of a chicken via an image of a chicken's fecal using through the deep learning neural network.**
 
 ## Executive Summary
 ## Conclusions and Recommendations
