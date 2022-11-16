@@ -18,7 +18,11 @@ This project focused on **developing the streamlit application which helps to cl
 
 ## Executive Summary
 ## Conclusions and Recommendations
-
+Col1  | Col2  |  Col3 | Col4
+----- | ----- | ----- | ----- |
+Test1 | Test1 | Test1 | Test1 |
+Test2 | Test2 | Test2 | Test2 |
+Test3 | Test3 | Test3 | Test3 |
 
 
 ## Further Improvements
