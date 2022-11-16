@@ -18,8 +18,8 @@ This project focused on **developing the streamlit application which helps to cl
 
 ## Executive Summary
 ## Conclusions and Recommendations
-Col1  | Col2  |  Col3 | Col4
------ | ----- | ----- | ----- |
+CNN_Baseline  | VGG16_Transfer_Leraning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Leraning | MobileNetV2_Fine_Tuning 
+----- | ----- | ----- | ----- | ----- |
 Test1 | Test1 | Test1 | Test1 |
 Test2 | Test2 | Test2 | Test2 |
 Test3 | Test3 | Test3 | Test3 |
