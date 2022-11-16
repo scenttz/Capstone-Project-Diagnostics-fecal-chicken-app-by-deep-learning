@@ -20,7 +20,7 @@ This project focused on **developing the streamlit application which helps to cl
 
 
 ## Conclusions and Recommendations
-Pamameters | CNN_Baseline  | VGG16_Transfer_Leraning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Leraning | MobileNetV2_Fine_Tuning 
+Pamameters | CNN_Baseline  | VGG16_Transfer_Learning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Learning | MobileNetV2_Fine_Tuning 
 ----- | ----- | ----- | ----- | ----- | ----- |
 Loss function training | 0.14 | 0.50 | 0.07 | 0.06 | 0.04 |
 Loss function vaildation | 0.45 | 0.54 | 0.29 | 0.32 | 1.43 |
