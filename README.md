@@ -17,12 +17,14 @@ Moreover, it is corresponding to the increasing trend of Thailand's chicken meat
 This project focused on **developing the streamlit application which helps to classify the disease of a chicken via an image of a chicken's fecal using through the deep learning neural network.**
 
 ## Executive Summary
+
+
 ## Conclusions and Recommendations
-CNN_Baseline  | VGG16_Transfer_Leraning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Leraning | MobileNetV2_Fine_Tuning 
------ | ----- | ----- | ----- | ----- |
-Test1 | Test1 | Test1 | Test1 |
-Test2 | Test2 | Test2 | Test2 |
-Test3 | Test3 | Test3 | Test3 |
+Pamameters | CNN_Baseline  | VGG16_Transfer_Leraning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Leraning | MobileNetV2_Fine_Tuning 
+----- | ----- | ----- | ----- | ----- | ----- |
+Loss function training | Test1 | Test1 | Test1 |
+Loss function vaildation | Test2 | Test2 | Test2 |
+Accuracy score training  | Test3 | Test3 | Test3 |
 
 
 ## Further Improvements
