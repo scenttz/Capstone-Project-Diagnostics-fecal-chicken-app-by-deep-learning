@@ -21,7 +21,7 @@ We get the datasets from the [Machine Learning Dataset 1](https://zenodo.org/rec
 ![Datasets](./picture/dataset.png)
 
 It is necessary to divide the data into the respective directories in order to support images for Artificial Neural Network learning using Keras and Tensorflow tools:
-**Train subdirectory** is data to use for neural network learning to find optimal weight and make architecture., **Validation subdirectory** is data to make sure the neural network model is not overfitting with training datasets and **Testing subdirectory** is data to make final capability with our model.
+**Train subdirectory** is data to use for neural network learning to find optimal weight and make architecture, **Validation subdirectory** is data to make sure the neural network model is not overfitting with training datasets and **Testing subdirectory** is data to make final capability with our model.
 
 ![pre-precessiong](./picture/pre-precessiong.png)
 
