@@ -31,7 +31,7 @@ Size model(MB)  | 24.11 | 56.23 | 110.26 | 9.13 | 23.46 |
 Number parameters   | 2,102,564 | 14,716,740 | 14,716,740 | 2,263,108 | 2,263,108 |
 Input image size  | (128,128,3) | (224,224,3) | (224,224,3) | (128,128,3) | (128,128,3) |
 
-The performances of all models were practicable and the accuracy score (>80%) in the validation dataset. The selected model **MobileNetV2 Transfer Learning** was the smallest size with the highest accuracy at 0.90. Moreover, the size of the input could be smaller when compared to VGG 16 models with low parameter levels In addition, the F1 score was equal to 0.84 which can exhibit high performance. Last, we tested the performance of the model on the testing dataset was the accuracy score **XX** and the F1 score was equal to 0.90.
+The performances of all models were practicable and the accuracy score (>80%) in the validation dataset. The selected model **MobileNetV2 Transfer Learning** was the smallest size with the highest accuracy at 0.90. Moreover, the size of the input could be smaller when compared to VGG 16 models with low parameter levels In addition, the F1 score was equal to 0.84 which can exhibit high performance. Last, we tested the performance of the model on the testing dataset was the accuracy score 0.93 and the F1 score was equal to 0.90.
 
 The developed the [streamlit application](https://scenttz-scenttz-capstone-project-diagnostics-fecal-c-app-67tcm7.streamlit.app/) can be used whether on mobile or website using deep learning neural networks. It could predict the image of chicken fecal in Thailand or even in foreign countries. Convolutional layers in deep learning neural network has a high efficiency for image classifying which is corresponding to the well-known theory.
 
