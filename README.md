@@ -22,10 +22,14 @@ This project focused on **developing the streamlit application which helps to cl
 ## Conclusions and Recommendations
 Pamameters | CNN_Baseline  | VGG16_Transfer_Leraning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Leraning | MobileNetV2_Fine_Tuning 
 ----- | ----- | ----- | ----- | ----- | ----- |
-Loss function training | Test1 | Test1 | Test1 |
-Loss function vaildation | Test2 | Test2 | Test2 |
-Accuracy score training  | Test3 | Test3 | Test3 |
-
+Loss function training | 0.14 | 0.50 | 0.07 | 0.06 | 0.04 |
+Loss function vaildation | 0.45 | 0.54 | 0.29 | 0.32 | 1.43 |
+Accuracy score training  | 0.95 | 0.82 | 0.97 | 0.98 | 0.99 |
+Accuracy score vaildation  | 0.88 | 0.80 | 0.92 | 0.90 | 0.86 |
+F1 score average  | 0.86 | 0.74 | 0.90 | 0.88 | 0.84 |
+Size model(MB)  | 24.11 | 56.23 | 110.26 | 9.13 | 23.46 |
+Number parameters   | 2,102,564 | 14,716,740 | 14,716,740 | 2,263,108 | 2,263,108 |
+Input image size  | (128,128,3) | (224,224,3) | (224,224,3) | (128,128,3) | (128,128,3) |
 
 ## Further Improvements
 
