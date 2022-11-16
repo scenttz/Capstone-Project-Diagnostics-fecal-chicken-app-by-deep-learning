@@ -31,6 +31,8 @@ Size model(MB)  | 24.11 | 56.23 | 110.26 | 9.13 | 23.46 |
 Number parameters   | 2,102,564 | 14,716,740 | 14,716,740 | 2,263,108 | 2,263,108 |
 Input image size  | (128,128,3) | (224,224,3) | (224,224,3) | (128,128,3) | (128,128,3) |
 
+
+
 ## Further Improvements
 
 ## Acknowledgements
