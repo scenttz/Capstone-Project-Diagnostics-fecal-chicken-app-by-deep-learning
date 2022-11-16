@@ -43,7 +43,10 @@ The performances of all models were practicable and the accuracy score (>80%) in
 The developed the [streamlit application](https://scenttz-scenttz-capstone-project-diagnostics-fecal-c-app-67tcm7.streamlit.app/) can be used whether on mobile or website using deep learning neural networks. It could predict the image of chicken fecal in Thailand or even in foreign countries. Convolutional layers in deep learning neural network has a high efficiency for image classifying which is corresponding to the well-known theory.
 
 ## Further Improvements
-
+ - The lack of information about NCD negatively affects the metrics in this class and the model. Thus, information about NCD should be collected in the future for training the model. 
+ - In addition, this limitation is also corresponding to the errors that occur when using the image with two or more fecal or contain text on the images. Those complications might cause an error in the image detection of the model. In the future, object detection could be developed for better classification.
+ - Moreover, all the image used for training in this model were obtained from poultry. We think it might be more practicable if we could train the model to be used widely for both poultry and broiler. Thus, it is important to collect more imformation about broiler and their fecals.
+ 
 ## Acknowledgements
  - [Machine Learning Dataset for Poultry Diseases Diagnostics - PCR annotated](https://doi.org/10.5281/zenodo.5801834)
  - [Machine Learning Dataset for Poultry Diseases Diagnostics](https://doi.org/10.5281/zenodo.4628934)
