@@ -43,7 +43,7 @@ Input image size  | (128,128,3) | (224,224,3) | (224,224,3) | (128,128,3) | (128
 
 The performances of all models were practicable and the accuracy score (>80%) in the validation dataset. We can beat the baseline score of CNN model with VGG16 fine tuning, MobileNetV2 transfer learning and MobileNetV2 fine tuning.
 
-The selected model **MobileNetV2 Transfer Learning** was the smallest size with the high accuracy score at 0.90. Moreover, the size of the image input could be smaller when compared to VGG 16 models with low parameter levels. Even if the MobileNetV2 Transfer Learning is lower performance than MobileNetV2_Fine_Tuning but in part of size model which is smallest that good for upload on cloud and github. In addition, the F1 score was equal to 0.84 which can exhibit high performance. 
+The selected model **MobileNetV2 Transfer Learning** was the smallest size with the high accuracy score at 0.90. Moreover, the size of the image input could be smaller when compared to VGG 16 models with low parameter levels. Even if the MobileNetV2 Transfer Learning is lower performance than MobileNetV2 Fine Tuning but in part of size model which is smallest that good for upload on cloud and github. In addition, the F1 score was equal to 0.84 which can exhibit high performance. 
 Last, we tested the performance of the model on the testing dataset was the accuracy score 0.93 and the F1 score was equal to 0.90.
 
 
