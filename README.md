@@ -29,6 +29,7 @@ We use the CNN model as the baseline score of our project and apply the transfer
 
 
 ## Conclusions and Recommendations
+The table show performance of all model after training 25 epoch using GPU 1050 and used GPU GTX NVIDIA 1050   
 Parameters | CNN_Baseline  | VGG16_Transfer_Learning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Learning | MobileNetV2_Fine_Tuning 
 ----- | ----- | ----- | ----- | ----- | ----- |
 Loss function training | 0.14 | 0.50 | 0.07 | 0.06 | 0.04 |
