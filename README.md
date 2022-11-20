@@ -21,7 +21,9 @@ We get the datasets from the [Machine Learning Dataset 1](https://zenodo.org/rec
 ![Datasets](./picture/dataset.png)
 
 It is necessary to divide the data into the respective directories in order to support images for Artificial Neural Network learning using Keras and Tensorflow tools:
-**Train subdirectory** is data to use for neural network learning to find optimal weight and make architecture, **Validation subdirectory** is data to make sure the neural network model is not overfitting with training datasets and **Testing subdirectory** is data to make final capability with our model.
+**Train subdirectory** is data to use for neural network learning to find optimal weight and make architecture, **Validation subdirectory** is data to make sure the neural network model is not overfitting with training datasets and **Testing subdirectory** is data to make final capability with our model. Due to ncd class in the train subdirectory finding an imbalance problem between another group, we decide to use image aumentation to increase image in this class such as flip, shiftandrotate, and add noise and contrast. Finally we prepare data suitable for training deep learning model using by TensorFlow and Keras.
+
+We use the CNN model as the baseline score of our project and apply the transfer learning and fine-tuning model to improve the preforemane image classification problem. So we select VGG16 and MobileNetV2 model because all both is easy to us in Tensorflow api and high accuracy for this problem 
 
 ![pre-precessiong](./picture/pre-precessiong.png)
 
