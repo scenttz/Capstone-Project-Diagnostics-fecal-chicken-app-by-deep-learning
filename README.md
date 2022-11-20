@@ -32,11 +32,11 @@ We use the CNN model as the baseline score of our project and apply the transfer
 The table show performance of all model after training 25 epoch using GPU 1050 and used GPU GTX NVIDIA 1050   
 Parameters | CNN_Baseline  | VGG16_Transfer_Learning  |  VGG16_Fine_Tuning | MobileNetV2_Transfer_Learning | MobileNetV2_Fine_Tuning 
 ----- | ----- | ----- | ----- | ----- | ----- |
-Loss function training | 0.14 | 0.50 | 0.07 | 0.06 | 0.04 |
-Loss function validation | 0.45 | 0.54 | 0.29 | 0.32 | 1.43 |
-Accuracy score training  | 0.95 | 0.82 | 0.97 | 0.98 | 0.99 |
-Accuracy score validation  | 0.88 | 0.80 | 0.92 | 0.90 | 0.86 |
-F1 score average  | 0.86 | 0.74 | 0.90 | 0.88 | 0.84 |
+Loss function training | 0.14 | 0.50 | 0.03 | 0.06 | 0.02 |
+Loss function validation | 0.45 | 0.54 | 0.44 | 0.32 | 1.08 |
+Accuracy score training  | 0.95 | 0.82 | 0.99 | 0.98 | 0.99 |
+Accuracy score validation  | 0.88 | 0.80 | 0.93 | 0.90 | 0.92 |
+F1 score average  | 0.86 | 0.74 | 0.92 | 0.88 | 0.92 |
 Size model(MB)  | 24.11 | 56.23 | 110.26 | 9.13 | 23.46 |
 Number parameters   | 2,102,564 | 14,716,740 | 14,716,740 | 2,263,108 | 2,263,108 |
 Input image size  | (128,128,3) | (224,224,3) | (224,224,3) | (128,128,3) | (128,128,3) |
