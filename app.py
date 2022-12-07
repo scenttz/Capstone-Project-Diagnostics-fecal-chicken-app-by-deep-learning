@@ -7,7 +7,7 @@ import numpy as np
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-  model = tf.keras.models.load_model('./model/mobilenetV2/mobilenetV2.h5')
+  model = tf.keras.models.load_model('./model/mobilenetV2/mobilenetV2.h5') # load model
   return model
 with st.spinner('Model is being loaded..'):
   model=load_model()
