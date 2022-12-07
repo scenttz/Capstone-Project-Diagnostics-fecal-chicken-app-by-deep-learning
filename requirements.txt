@@ -1,5 +1,6 @@
-opencv-contrib-python-headless
-numpy==1.20.1
+opencv-python-headless==4.6.0.66
+numpy==1.20.2
 streamlit==1.12.2
 joblib==0.16.0
 tensorflow==2.10.0
+keras==2.9.0
