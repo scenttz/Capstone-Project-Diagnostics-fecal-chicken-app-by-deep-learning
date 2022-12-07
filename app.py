@@ -4,11 +4,13 @@ import tensorflow as tf
 import cv2
 from PIL import Image, ImageOps
 import numpy as np
+import pickle
 
 @st.cache(allow_output_mutation=True)
 def load_model():
-  model = tf.keras.models.load_model('./model/mobilenetV2/mobilenetV2.h5') # load model
-  return model
+  with open('./model/mobilenetV2/mobilenetV2.h5', 'rb') as f:
+    the_model = pickle.load(f)
+  return the_model
 with st.spinner('Model is being loaded..'):
   model=load_model()
 
