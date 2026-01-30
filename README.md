@@ -47,7 +47,7 @@ The selected model **MobileNetV2 Transfer Learning** was the smallest size with 
 Last, we tested the performance of the model on the testing dataset was the accuracy score 0.93 and the F1 score was equal to 0.90.
 
 
-The developed the [streamlit application](https://scenttz-scenttz-capstone-project-diagnostics-fecal-c-app-67tcm7.streamlit.app/) can be used whether on mobile or website using deep learning neural networks. It could predict the image of chicken fecal in Thailand or even in foreign countries. Convolutional layers in deep learning neural network has a high efficiency for image classifying which is corresponding to the well-known theory.
+The developed the [streamlit application](https://capstone-project-diagnostics-fecal-chicken-app-by-deep-learnin.streamlit.app/) can be used whether on mobile or website using deep learning neural networks. It could predict the image of chicken fecal in Thailand or even in foreign countries. Convolutional layers in deep learning neural network has a high efficiency for image classifying which is corresponding to the well-known theory.
 
 ## Further Improvements
  - The lack of information about NCD negatively affects the metrics in this class and the model. Thus, information about NCD should be collected in the future for training the model. 
