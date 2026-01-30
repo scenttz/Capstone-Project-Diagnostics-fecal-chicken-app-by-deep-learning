@@ -1,5 +1,5 @@
 opencv-python-headless
-numpy
-tensorflow
+numpy==1.23.5
+tensorflow==2.10.0
 streamlit
 joblib
